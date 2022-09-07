@@ -1,14 +1,10 @@
-{
-  [
-
-  {
-    "name": "11",
-    "description": "product 11"
-  },
-
-  {
-    "name": "222",
-    "description": "product 222"
-  }
+[
+   {
+      "name":"11",
+      "description":"product 11"
+   },
+   {
+      "name":"222",
+      "description":"product 222"
+   }
 ]
-}
