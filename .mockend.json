@@ -1,5 +1,5 @@
 {
-  "DefaultData": {    
+  "ComboDefaultData": {    
     "description": {
       "loremWords": {
         "minLength": 5,
