@@ -1,5 +1,5 @@
 {
-  "ComboDefaultData": {    
+  "Post": {    
     "description": {
       "loremWords": {
         "minLength": 5,
